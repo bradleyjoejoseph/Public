@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="script" href="scripts.js">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    
+        <style>
+            #content{
+                display:flex;
+                justify-content: space-around;
+                background-color: black;
+                overflow-y: auto;
+            }
+            #next{
+                position: absolute;
+                background-color: transparent;
+                height: 75px;
+                width: 75px;
+                border-radius: 100%;
+                bottom: 1vh;
+                right: 1vw;
+                border: black solid 10px;
+            }
+
+            #Welcome{
+                color:black;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                font-size: 5vw;
+                border-radius: 25px;
+                
+                position:absolute;
+                display:flex;
+                justify-content: center;
+                align-items: center;
+                width: 99%;
+                height:99%;
+                margin-top: 0.5%;
+                background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+                background-size: 1800% 1800%;
+
+                -webkit-animation: rainbow 18s ease infinite;
+                -z-animation: rainbow 18s ease infinite;
+                -o-animation: rainbow 18s ease infinite;
+                animation: rainbow 18s ease infinite;
+            }
+
+            @-webkit-keyframes rainbow {
+                0%{background-position:0% 82%}
+                50%{background-position:100% 19%}
+                100%{background-position:0% 82%}
+            }
+            @-moz-keyframes rainbow {
+                0%{background-position:0% 82%}
+                50%{background-position:100% 19%}
+                100%{background-position:0% 82%}
+            }
+            @-o-keyframes rainbow {
+                0%{background-position:0% 82%}
+                50%{background-position:100% 19%}
+                100%{background-position:0% 82%}
+            }
+            @keyframes rainbow { 
+                0%{background-position:0% 82%}
+                50%{background-position:100% 19%}
+                100%{background-position:0% 82%}
+            }
+        </style>
+    </head>
+    
+    <body id="content">
+        <div id="Welcome">
+            <p>Welcome to Infinity Studios!</p>
+            <button onclick="next()" id="next"></button>
+        </div>
+    </body>
+    <script>
+        function next(){
+            document.querySelector("#Welcome").style.visibility = "hidden"
+        }
+    </script>
+</html>
