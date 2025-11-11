@@ -1,0 +1,15 @@
+/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/bin/Debug/net7.0/HexBaron
+/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/bin/Debug/net7.0/HexBaron.deps.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/bin/Debug/net7.0/HexBaron.runtimeconfig.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/bin/Debug/net7.0/HexBaron.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/bin/Debug/net7.0/HexBaron.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/obj/Debug/net7.0/HexBaron.csproj.AssemblyReference.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/obj/Debug/net7.0/HexBaron.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/obj/Debug/net7.0/HexBaron.AssemblyInfoInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/obj/Debug/net7.0/HexBaron.AssemblyInfo.cs
+/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/obj/Debug/net7.0/HexBaron.csproj.CoreCompileInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/obj/Debug/net7.0/HexBaron.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/obj/Debug/net7.0/refint/HexBaron.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/obj/Debug/net7.0/HexBaron.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/obj/Debug/net7.0/HexBaron.genruntimeconfig.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/obj/Debug/net7.0/ref/HexBaron.dll

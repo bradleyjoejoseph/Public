@@ -1,0 +1,15 @@
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/bin/Debug/net7.0/FibonacciClass
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/bin/Debug/net7.0/FibonacciClass.deps.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/bin/Debug/net7.0/FibonacciClass.runtimeconfig.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/bin/Debug/net7.0/FibonacciClass.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/bin/Debug/net7.0/FibonacciClass.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/obj/Debug/net7.0/FibonacciClass.csproj.AssemblyReference.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/obj/Debug/net7.0/FibonacciClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/obj/Debug/net7.0/FibonacciClass.AssemblyInfoInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/obj/Debug/net7.0/FibonacciClass.AssemblyInfo.cs
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/obj/Debug/net7.0/FibonacciClass.csproj.CoreCompileInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/obj/Debug/net7.0/FibonacciClass.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/obj/Debug/net7.0/refint/FibonacciClass.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/obj/Debug/net7.0/FibonacciClass.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/obj/Debug/net7.0/FibonacciClass.genruntimeconfig.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/obj/Debug/net7.0/ref/FibonacciClass.dll

@@ -1,0 +1,15 @@
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/bin/Debug/net7.0/Program6
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/bin/Debug/net7.0/Program6.deps.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/bin/Debug/net7.0/Program6.runtimeconfig.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/bin/Debug/net7.0/Program6.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/bin/Debug/net7.0/Program6.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/obj/Debug/net7.0/Program6.csproj.AssemblyReference.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/obj/Debug/net7.0/Program6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/obj/Debug/net7.0/Program6.AssemblyInfoInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/obj/Debug/net7.0/Program6.AssemblyInfo.cs
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/obj/Debug/net7.0/Program6.csproj.CoreCompileInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/obj/Debug/net7.0/Program6.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/obj/Debug/net7.0/refint/Program6.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/obj/Debug/net7.0/Program6.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/obj/Debug/net7.0/Program6.genruntimeconfig.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/obj/Debug/net7.0/ref/Program6.dll

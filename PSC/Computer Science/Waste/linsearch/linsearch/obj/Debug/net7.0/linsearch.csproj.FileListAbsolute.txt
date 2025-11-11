@@ -1,0 +1,15 @@
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/linsearch/linsearch/bin/Debug/net7.0/linsearch
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/linsearch/linsearch/bin/Debug/net7.0/linsearch.deps.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/linsearch/linsearch/bin/Debug/net7.0/linsearch.runtimeconfig.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/linsearch/linsearch/bin/Debug/net7.0/linsearch.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/linsearch/linsearch/bin/Debug/net7.0/linsearch.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/linsearch/linsearch/obj/Debug/net7.0/linsearch.csproj.AssemblyReference.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/linsearch/linsearch/obj/Debug/net7.0/linsearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/linsearch/linsearch/obj/Debug/net7.0/linsearch.AssemblyInfoInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/linsearch/linsearch/obj/Debug/net7.0/linsearch.AssemblyInfo.cs
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/linsearch/linsearch/obj/Debug/net7.0/linsearch.csproj.CoreCompileInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/linsearch/linsearch/obj/Debug/net7.0/linsearch.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/linsearch/linsearch/obj/Debug/net7.0/refint/linsearch.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/linsearch/linsearch/obj/Debug/net7.0/linsearch.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/linsearch/linsearch/obj/Debug/net7.0/linsearch.genruntimeconfig.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/linsearch/linsearch/obj/Debug/net7.0/ref/linsearch.dll

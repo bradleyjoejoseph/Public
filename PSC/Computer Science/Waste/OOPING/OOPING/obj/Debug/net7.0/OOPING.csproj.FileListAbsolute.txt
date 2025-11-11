@@ -1,0 +1,15 @@
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/obj/Debug/net7.0/OOPING.csproj.AssemblyReference.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/obj/Debug/net7.0/OOPING.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/obj/Debug/net7.0/OOPING.AssemblyInfoInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/obj/Debug/net7.0/OOPING.AssemblyInfo.cs
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/obj/Debug/net7.0/OOPING.csproj.CoreCompileInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/bin/Debug/net7.0/OOPING
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/bin/Debug/net7.0/OOPING.deps.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/bin/Debug/net7.0/OOPING.runtimeconfig.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/bin/Debug/net7.0/OOPING.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/bin/Debug/net7.0/OOPING.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/obj/Debug/net7.0/OOPING.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/obj/Debug/net7.0/refint/OOPING.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/obj/Debug/net7.0/OOPING.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/obj/Debug/net7.0/OOPING.genruntimeconfig.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/obj/Debug/net7.0/ref/OOPING.dll

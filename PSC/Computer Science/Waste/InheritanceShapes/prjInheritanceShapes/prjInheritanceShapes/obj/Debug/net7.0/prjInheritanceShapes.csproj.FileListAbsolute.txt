@@ -1,0 +1,15 @@
+/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/bin/Debug/net7.0/prjInheritanceShapes
+/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/bin/Debug/net7.0/prjInheritanceShapes.deps.json
+/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/bin/Debug/net7.0/prjInheritanceShapes.runtimeconfig.json
+/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/bin/Debug/net7.0/prjInheritanceShapes.dll
+/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/bin/Debug/net7.0/prjInheritanceShapes.pdb
+/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/obj/Debug/net7.0/prjInheritanceShapes.csproj.AssemblyReference.cache
+/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/obj/Debug/net7.0/prjInheritanceShapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/obj/Debug/net7.0/prjInheritanceShapes.AssemblyInfoInputs.cache
+/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/obj/Debug/net7.0/prjInheritanceShapes.AssemblyInfo.cs
+/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/obj/Debug/net7.0/prjInheritanceShapes.csproj.CoreCompileInputs.cache
+/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/obj/Debug/net7.0/prjInheritanceShapes.dll
+/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/obj/Debug/net7.0/refint/prjInheritanceShapes.dll
+/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/obj/Debug/net7.0/prjInheritanceShapes.pdb
+/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/obj/Debug/net7.0/prjInheritanceShapes.genruntimeconfig.cache
+/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/obj/Debug/net7.0/ref/prjInheritanceShapes.dll

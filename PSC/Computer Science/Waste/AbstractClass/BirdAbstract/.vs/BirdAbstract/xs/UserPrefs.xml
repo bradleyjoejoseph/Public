@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AD5D626E-57A2-4798-9F34-250EC15F69FE}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BirdAbstract PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BirdAbstract/EmptyClass.cs">
+    <Files>
+      <File FileName="../../InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/Program.cs" />
+      <File FileName="BirdAbstract/EmptyClass.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BirdAbstract" expanded="True">
+            <Node name="BirdAbstract" expanded="True">
+              <Node name="EmptyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

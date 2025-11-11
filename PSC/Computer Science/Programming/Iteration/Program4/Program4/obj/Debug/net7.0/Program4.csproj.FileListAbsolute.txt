@@ -1,0 +1,15 @@
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/bin/Debug/net7.0/Program4
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/bin/Debug/net7.0/Program4.deps.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/bin/Debug/net7.0/Program4.runtimeconfig.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/bin/Debug/net7.0/Program4.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/bin/Debug/net7.0/Program4.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/obj/Debug/net7.0/Program4.csproj.AssemblyReference.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/obj/Debug/net7.0/Program4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/obj/Debug/net7.0/Program4.AssemblyInfoInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/obj/Debug/net7.0/Program4.AssemblyInfo.cs
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/obj/Debug/net7.0/Program4.csproj.CoreCompileInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/obj/Debug/net7.0/Program4.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/obj/Debug/net7.0/refint/Program4.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/obj/Debug/net7.0/Program4.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/obj/Debug/net7.0/Program4.genruntimeconfig.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/obj/Debug/net7.0/ref/Program4.dll

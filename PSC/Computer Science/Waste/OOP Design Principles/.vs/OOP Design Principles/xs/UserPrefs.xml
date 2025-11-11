@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{94432484-68E7-4E1F-99C3-FEE1B1F23042}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP Design Principles/Program.cs">
+    <Files>
+      <File FileName="OOP Design Principles/Program.cs" Line="16" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP Design Principles" expanded="True">
+            <Node name="OOP Design Principles" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.OOP_220Design_220Principles FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

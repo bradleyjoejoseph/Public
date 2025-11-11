@@ -1,0 +1,441 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.6;
+  color: #ddd; /* Light gray text */
+  background: linear-gradient(145deg, #1a1a1a, #121212);
+padding: 0 20px;
+}
+
+/* Navigation Bar */
+nav {
+  position: fixed; /* Fix the navbar at the top */
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: linear-gradient(90deg, #333, #222); /* Dark gradient */
+  color: #ddd; /* Light gray text */
+  z-index: 1000; /* Ensure it stays above other elements */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5); /* Darker shadow */
+  transition: top 0.3s ease-in-out, background 0.3s ease-in-out; /* Smooth transition for hiding/showing and hover effects */
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 10px 0;
+  margin: 0;
+}
+
+nav ul li a {
+  color: #ddd; /* Light gray */
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: background 0.3s, color 0.3s, transform 0.3s; /* Smooth hover effects */
+}
+
+nav ul li a:hover {
+  background: #444; /* Darker gray */
+  color: #fff; /* White text */
+  transform: scale(1.1); /* Slight zoom effect */
+}
+
+nav ul li a:active {
+  transform: scale(1); /* Reset zoom on click */
+}
+
+/* Header */
+header {
+  text-align: center;
+  padding: 20px;
+  margin-top: 60px; /* Space for fixed navbar */
+  background: linear-gradient(145deg, #2a2a2a, #1e1e1e); /* Dark gradient */
+  border-bottom: 1px solid #333;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  color: #ddd; /* Light gray text */
+}
+
+header h1 {
+  font-size: 2rem;
+  color: #ccc; /* Light gray */
+  margin-bottom: 15px;
+}
+
+header .contact-icons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+header .contact-icons a {
+  color: #bbb; /* Light gray */
+  font-size: 1.5rem;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+header .contact-icons a:hover {
+  color: #fff; /* White on hover */
+  transform: scale(1.2); /* Slight zoom effect on hover */
+}
+
+/* Section Styling */
+section {
+  margin-bottom: 40px;
+}
+
+section h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #ccc; /* Light gray */
+  text-align: center;
+}
+
+/* Skills Section */
+#skills {
+  margin-top: 40px;
+}
+
+#skills h2 {
+  text-align: center;
+  color: #ccc; /* Light gray */
+  margin-bottom: 20px;
+}
+
+/* Skills Grid */
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(200px, 1fr)
+  ); /* Responsive grid */
+  gap: 20px;
+  justify-items: center; /* Center align tiles */
+  align-items: start; /* Align items to the top */
+  grid-auto-rows: min-content; /* Dynamically adjust row height */
+  grid-auto-flow: dense; /* Fill gaps dynamically */
+  background: linear-gradient(145deg, #1a1a1a, #121212); /* Dark gradient */
+}
+
+/* Skill Tile */
+.skill-tile {
+  position: relative; /* Enable positioning for child elements like icons */
+  background: linear-gradient(145deg, #2a2a2a, #1e1e1e); /* Dark gradient */
+  border: 1px solid #333;
+  border-radius: 15px;
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  width: 100%; /* Ensure consistent tile width */
+  max-width: 250px; /* Optional: Limit tile width */
+  transition: transform 0.3s, box-shadow 0.3s, grid-row 0.3s; /* Smooth transition for resizing */
+  overflow: hidden; /* Prevent content overflow */
+  color: #ddd; /* Light gray text */
+}
+
+.skill-tile:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.7); /* Darker shadow */
+}
+
+/* Expanded Skill Tile */
+.skill-tile.expanded {
+  grid-row: span 2; /* Make the expanded tile span two rows */
+  transition: grid-row 0.3s ease-in-out; /* Smooth transition for resizing */
+}
+
+.skill-tile label {
+  font-size: 1rem;
+  color: #ccc; /* Light gray */
+  margin-bottom: 10px;
+  display: block;
+}
+
+/* Skill Icons */
+.skill-icons {
+  position: absolute; /* Position relative to the skill tile */
+  top: 10px; /* Distance from the top */
+  right: 10px; /* Distance from the right */
+  font-size: 1.5rem; /* Icon size */
+  color: #bbb; /* Light gray */
+}
+
+.skill-icons i {
+  transition: color 0.3s ease, transform 0.3s ease; /* Smooth hover effect */
+}
+
+.skill-tile:hover .skill-icons i {
+  color: #fff; /* White on hover */
+  transform: scale(1.2); /* Slight zoom effect on hover */
+}
+
+/* Progress Bar */
+.progress-bar {
+  background: #444; /* Dark gray */
+  border-radius: 5px;
+  overflow: hidden;
+  height: 15px;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.progress {
+  height: 100%;
+  transition: width 0.3s ease-in-out;
+background: #28a745; /* Default green color */
+}
+background: #28a745; /* Default green color */
+
+.progress[data-value="low"] {
+  background: #ff1a1a; /* Red for low progress */
+}
+
+.progress[data-value="medium"] {
+  background: #ffc107; /* Yellow for medium progress */
+}
+
+.progress[data-value="high"] {
+  background: #28a745; /* Green for high progress */
+}
+
+/* Skill Content */
+.skill-content {
+  display: none; /* Hidden by default */
+  background: #1e1e1e; /* Dark gray */
+  border-top: 1px solid #333;
+  padding: 10px;
+  margin-top: 10px;
+  text-align: left;
+  overflow: auto; /* Prevent content from affecting layout */
+  color: #bbb; /* Light gray */
+}
+
+.skill-content.expanded {
+  display: block; /* Show expanded content */
+}
+
+.skill-content h4 {
+  margin: 10px 0 5px;
+  font-size: 1rem;
+  color: #aaa;
+}
+
+.skill-content ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.skill-content ul li {
+  margin-bottom: 5px;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* Styled Links Inside Skill Tiles */
+.skill-content a {
+  display: inline-block;
+  color: #888; /* Medium gray */
+  text-decoration: none;
+  font-weight: bold;
+  margin: 3px 0; /* Reduced margin */
+  padding: 3px 8px; /* Reduced padding */
+  font-size: 0.9rem; /* Slightly smaller font size */
+  border: 1px solid #555; /* Darker border */
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+.skill-content a:hover {
+  background: #555; /* Darker gray */
+  color: #fff; /* White text */
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+.skill-content a:active {
+  transform: scale(1); /* Reset zoom on click */
+}
+
+/* Styling for boxes */
+.box {
+  position: relative; /* To position the icons inside the box */
+  background: linear-gradient(145deg, #2a2a2a, #1e1e1e); /* Dark gradient */
+  border: 1px solid #333;
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+  color: #ddd; /* Light gray text */
+}
+
+.box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.7); /* Darker shadow */
+}
+
+/* Styling for icons */
+.icons {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  gap: 5px; /* Space between icons */
+}
+
+.icons i {
+  font-size: 1.5rem; /* Smaller size */
+  color: #aaa; /* Grayish color */
+  transition: color 0.3s;
+}
+
+.box:hover .icons i {
+  color: #ff1a1a; /* Red on hover */
+}
+
+.box h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #ccc; /* Light gray */
+}
+
+.box p {
+  font-size: 1rem;
+  margin-bottom: 10px;
+  color: #bbb; /* Muted gray */
+}
+
+.box a {
+  color: #888; /* Medium gray */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.box a:hover {
+  color: #fff; /* White text */
+}
+
+/* Contact Links */
+.contact-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.contact-links a {
+  color: #ff1a1a; /* Red */
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+contact-links a:hover {
+  color: #b30000; /* Darker red */
+}
+
+/* Contact Section */
+#contact {
+  text-align: center;
+  padding: 20px 0;
+  background: linear-gradient(145deg, #2a2a2a, #1e1e1e);  /* Dark gradient */
+  border-top: 1px solid #333;
+  border-radius: 15px;
+  color: #ddd; /* Light gray text */
+}
+
+#contact h2 {
+  font-size: 1.8rem;
+  color: #ccc; /* Light gray */
+  margin-bottom: 15px;
+}
+
+#contact .contact-icons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+#contact .contact-icons a {
+  color: #bbb; /* Light gray */
+  font-size: 1.5rem;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+#contact .contact-icons a:hover {
+  color: #fff; /* White on hover */
+  transform: scale(1.2); /* Slight zoom effect on hover */
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px 0;
+  background: #222; /* Dark gray */
+  color: #ddd; /* Light gray */
+  margin-top: 40px;
+}
+
+footer p {
+  font-size: 1rem;
+  color: #bbb; /* Muted gray */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  header h1 {
+    font-size: 2.5rem;
+  }
+
+  section h2 {
+    font-size: 1.8rem;
+  }
+
+  .box h3 {
+    font-size: 1.3rem;
+  }
+
+  .box p {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  header h1 {
+    font-size: 2rem;
+  }
+
+  section h2 {
+    font-size: 1.5rem;
+  }
+
+  .box h3 {
+    font-size: 1.2rem;
+  }
+
+  .box p {
+    font-size: 0.8rem;
+  }
+}
+
+/* Roblox Icon */
+.roblox-icon {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}

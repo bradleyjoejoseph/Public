@@ -1,0 +1,15 @@
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/bin/Debug/net7.0/OOP Design Principles
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/bin/Debug/net7.0/OOP Design Principles.deps.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/bin/Debug/net7.0/OOP Design Principles.runtimeconfig.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/bin/Debug/net7.0/OOP Design Principles.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/bin/Debug/net7.0/OOP Design Principles.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/obj/Debug/net7.0/OOP Design Principles.csproj.AssemblyReference.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/obj/Debug/net7.0/OOP Design Principles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/obj/Debug/net7.0/OOP Design Principles.AssemblyInfoInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/obj/Debug/net7.0/OOP Design Principles.AssemblyInfo.cs
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/obj/Debug/net7.0/OOP Design Principles.csproj.CoreCompileInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/obj/Debug/net7.0/OOP Design Principles.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/obj/Debug/net7.0/refint/OOP Design Principles.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/obj/Debug/net7.0/OOP Design Principles.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/obj/Debug/net7.0/OOP Design Principles.genruntimeconfig.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/obj/Debug/net7.0/ref/OOP Design Principles.dll

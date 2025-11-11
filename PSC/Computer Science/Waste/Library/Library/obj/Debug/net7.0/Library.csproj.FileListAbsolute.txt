@@ -1,0 +1,5 @@
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/Library/Library/obj/Debug/net7.0/Library.csproj.AssemblyReference.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/Library/Library/obj/Debug/net7.0/Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/Library/Library/obj/Debug/net7.0/Library.AssemblyInfoInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/Library/Library/obj/Debug/net7.0/Library.AssemblyInfo.cs
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/Library/Library/obj/Debug/net7.0/Library.csproj.CoreCompileInputs.cache

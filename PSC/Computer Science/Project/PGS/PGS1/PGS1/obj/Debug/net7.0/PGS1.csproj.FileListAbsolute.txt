@@ -1,0 +1,15 @@
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Project/PGS/PGS1/PGS1/bin/Debug/net7.0/PGS1
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Project/PGS/PGS1/PGS1/bin/Debug/net7.0/PGS1.deps.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Project/PGS/PGS1/PGS1/bin/Debug/net7.0/PGS1.runtimeconfig.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Project/PGS/PGS1/PGS1/bin/Debug/net7.0/PGS1.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Project/PGS/PGS1/PGS1/bin/Debug/net7.0/PGS1.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Project/PGS/PGS1/PGS1/obj/Debug/net7.0/PGS1.csproj.AssemblyReference.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Project/PGS/PGS1/PGS1/obj/Debug/net7.0/PGS1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Project/PGS/PGS1/PGS1/obj/Debug/net7.0/PGS1.AssemblyInfoInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Project/PGS/PGS1/PGS1/obj/Debug/net7.0/PGS1.AssemblyInfo.cs
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Project/PGS/PGS1/PGS1/obj/Debug/net7.0/PGS1.csproj.CoreCompileInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Project/PGS/PGS1/PGS1/obj/Debug/net7.0/PGS1.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Project/PGS/PGS1/PGS1/obj/Debug/net7.0/refint/PGS1.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Project/PGS/PGS1/PGS1/obj/Debug/net7.0/PGS1.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Project/PGS/PGS1/PGS1/obj/Debug/net7.0/PGS1.genruntimeconfig.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Project/PGS/PGS1/PGS1/obj/Debug/net7.0/ref/PGS1.dll

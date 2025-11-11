@@ -1,0 +1,15 @@
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/obj/Debug/net7.0/BirdAbstract.csproj.AssemblyReference.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/obj/Debug/net7.0/BirdAbstract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/obj/Debug/net7.0/BirdAbstract.AssemblyInfoInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/obj/Debug/net7.0/BirdAbstract.AssemblyInfo.cs
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/obj/Debug/net7.0/BirdAbstract.csproj.CoreCompileInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/bin/Debug/net7.0/BirdAbstract
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/bin/Debug/net7.0/BirdAbstract.deps.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/bin/Debug/net7.0/BirdAbstract.runtimeconfig.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/bin/Debug/net7.0/BirdAbstract.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/bin/Debug/net7.0/BirdAbstract.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/obj/Debug/net7.0/BirdAbstract.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/obj/Debug/net7.0/refint/BirdAbstract.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/obj/Debug/net7.0/BirdAbstract.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/obj/Debug/net7.0/BirdAbstract.genruntimeconfig.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/obj/Debug/net7.0/ref/BirdAbstract.dll

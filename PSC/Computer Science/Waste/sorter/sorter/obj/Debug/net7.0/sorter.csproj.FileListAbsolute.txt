@@ -1,0 +1,15 @@
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/sorter/sorter/bin/Debug/net7.0/sorter
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/sorter/sorter/bin/Debug/net7.0/sorter.deps.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/sorter/sorter/bin/Debug/net7.0/sorter.runtimeconfig.json
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/sorter/sorter/bin/Debug/net7.0/sorter.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/sorter/sorter/bin/Debug/net7.0/sorter.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/sorter/sorter/obj/Debug/net7.0/sorter.csproj.AssemblyReference.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/sorter/sorter/obj/Debug/net7.0/sorter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/sorter/sorter/obj/Debug/net7.0/sorter.AssemblyInfoInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/sorter/sorter/obj/Debug/net7.0/sorter.AssemblyInfo.cs
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/sorter/sorter/obj/Debug/net7.0/sorter.csproj.CoreCompileInputs.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/sorter/sorter/obj/Debug/net7.0/sorter.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/sorter/sorter/obj/Debug/net7.0/refint/sorter.dll
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/sorter/sorter/obj/Debug/net7.0/sorter.pdb
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/sorter/sorter/obj/Debug/net7.0/sorter.genruntimeconfig.cache
+/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/sorter/sorter/obj/Debug/net7.0/ref/sorter.dll
