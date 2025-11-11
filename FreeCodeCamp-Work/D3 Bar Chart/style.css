@@ -1,0 +1,13 @@
+.content {
+  height: 6000px;
+  width: 1000px;
+  background-color: #eee;
+  padding: 20px;
+}
+svg {
+  background-color: #ddd;
+}
+.bar {
+  width: 3px;
+  fill: #5fbff9;
+}

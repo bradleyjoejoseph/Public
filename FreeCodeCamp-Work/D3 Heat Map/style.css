@@ -1,0 +1,14 @@
+#container {
+    height: 750px;
+    width: 1300px;
+    background-color: #eee;
+    padding: 20px;
+  }
+  
+  svg {
+    background-color: lightgrey;
+  }
+  g {
+    background-color: red;
+  }
+  

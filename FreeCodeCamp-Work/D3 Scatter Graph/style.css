@@ -1,0 +1,10 @@
+.content {
+    height: 500px;
+    width: 1000px;
+    background-color: #eee;
+    padding: 20px;
+  }
+  svg {
+    background-color: #ddd;
+  }
+  
