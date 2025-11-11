@@ -1,5 +1,6 @@
 # kadanes algorithm
-# find the biggest sum of contiguous numbers in an unsorted list.
+# https://www.codecademy.com/article/kadanes-algorithm-find-maximum-subarray-sum-in-an-array
+# find the biggest sum of contiguous numbers in an 1 dimensional list.
 
 def find_max_sum(nums):
     sumSoFar = []
@@ -24,5 +25,5 @@ def find_max_sum(nums):
                 bestList = sumSoFar.copy()
     return bestList
 
-print(find_max_sum([-2, 1, -3, 4, -1, 2, 1, -5, 4]))
+#print(find_max_sum([-2, 1, -3, 4, -1, 2, 1, -5, 4]))
 
