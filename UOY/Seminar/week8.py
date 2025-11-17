@@ -12,3 +12,4 @@ def sum_all(nums):
 
 # print(sum_all([1,[2,[3,[4]]]]))
 # answer is 10 program outputs 10
+
