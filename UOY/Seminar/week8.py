@@ -25,9 +25,3 @@ def sum_alll(nums):
 
 # print(sum_alll([1,[2,[3,[4]]]]))
 # made another solution same stuff but proper recursion
-
-def wildcard(nums):
-    if len(nums) == 0:
-        return
-    if nums[0] in [0, 1]:
-        return 
