@@ -1,38 +1,55 @@
 import math
 
-class Circle:
-    def __init__(self, centre, radius):
-        self.centre = centre
-        self.radius = radius
+# class Circle:
+#     def __init__(self, centre, radius):
+#         self.centre = centre
+#         self.radius = radius
     
-    def getArea(self):
-        return math.pi * self.radius**2
-    def getPerimeter(self):
-        return math.pi * self.radius * 2
+#     def getArea(self):
+#         return math.pi * self.radius**2
+#     def getPerimeter(self):
+#         return math.pi * self.radius * 2
 
 class Vector:
     def __init__(self, data = None):
-        self.data = data
+        if data != None:
+            self._vector = [float(x) for x in data]
+        else:
+            self._vector = []
     def __str__(self):
-        if self.data == None:
+        if self._vector == None:
             return "<>"
-        self.data = [str(i) for i in self.data]
-        return '<' + ", ".join(self.data) + '>'
+        return '<' + ", ".join([str(i) for i in self._vector]) + '>'
     def dim(self):
-        return len(self.data)
+        if len(self._vector) == 0:
+            return 0
+        return len(self._vector)
+        
     def get(self, index):
-        return self.data[index]
+        if index == -1:
+            return self._vector
+        return self._vector[index]
     def set(self, index, value):
-        self.data[index] = value
+        self._vector[index] = value
     
     def scalar_product(self, scalar):
-        return Vector([int(x) * y for x, y in zip(self.data, scalar)])
+        return Vector([x * scalar for x in self._vector])
     
     def add(self, other_vector):
-        return Vector([int(x) + y for x, y in zip(self.data, other_vector)])
-
+        if type(other_vector) != Vector:
+            raise TypeError("Not a vector")
+        if self.dim() != other_vector.dim():
+            raise ValueError("not matching dimensions")
+        return Vector([x + y for x, y in zip(self._vector, other_vector.get(-1))])
+        
     def equals(self, other_vector):
-        if False in [int(x) == y for x, y in zip(self.data, other_vector)]:
+        if type(other_vector) != Vector:
+            return False
+
+        if self.dim() != other_vector.dim():
+            return False
+        
+        if False in [x == y for x, y in zip(self._vector, other_vector.get(-1))]:
             return False
         return True
 
