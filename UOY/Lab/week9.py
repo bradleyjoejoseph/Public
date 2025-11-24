@@ -23,6 +23,9 @@ class Vector:
     def __rmul__(self, scalar):
         return self.scalar_product(scalar)
     
+    def __imul__(self, scalar):
+        return self.scalar_product(scalar)
+
     def __add__(self, other_vector):
         return self.add(other_vector)
     
@@ -35,8 +38,6 @@ class Vector:
         return len(self._vector)
         
     def get(self, index):
-        if index == -1:
-            return self._vector
         return self._vector[index]
     def set(self, index, value):
         self._vector[index] = value
@@ -49,7 +50,7 @@ class Vector:
             raise TypeError("Not a vector")
         if self.dim() != other_vector.dim():
             raise ValueError("not matching dimensions")
-        return Vector([x + y for x, y in zip(self._vector, other_vector.get(-1))])
+        return Vector([x + y for x, y in zip(self._vector, other_vector._vector)])
         
     def equals(self, other_vector):
         if type(other_vector) != Vector:
@@ -58,7 +59,7 @@ class Vector:
         if self.dim() != other_vector.dim():
             return False
         
-        if False in [x == y for x, y in zip(self._vector, other_vector.get(-1))]:
+        if False in [x == y for x, y in zip(self._vector, other_vector._vector)]:
             return False
         return True
 
