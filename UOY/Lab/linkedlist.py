@@ -62,6 +62,9 @@ class LinkedList:
         for i in range(self._size):
             if item._data == value:
                 return i 
-            item = item._tail
+            item = item._next
         
         raise ValueError(f"{value} is not in the list")
+    
+    def insert(self, index, object):
+        return 0
