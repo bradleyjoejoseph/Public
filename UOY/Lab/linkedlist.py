@@ -51,3 +51,17 @@ class LinkedList:
         front_node.tail = None
         self._size -= 1
         return front_node.data
+
+    def clear(self):
+        self._front = None
+        self._tail = None
+        self._size = 0
+    
+    def index(self, value, start=0, stop=2147483647):
+        item = self._front
+        for i in range(self._size):
+            if item._data == value:
+                return i 
+            item = item._tail
+        
+        raise ValueError(f"{value} is not in the list")
