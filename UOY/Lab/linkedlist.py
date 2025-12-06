@@ -67,4 +67,5 @@ class LinkedList:
         raise ValueError(f"{value} is not in the list")
     
     def insert(self, index, object):
-        return 0
+        if index < 0 or index > self._size:
+            raise IndexError("out of ranage")
