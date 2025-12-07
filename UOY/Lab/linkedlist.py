@@ -69,3 +69,26 @@ class LinkedList:
     def insert(self, index, object):
         if index < 0 or index > self._size:
             raise IndexError("out of ranage")
+        nodey = LinkedNode(object)
+
+        if index == 0:
+            nodey._next = self._front
+            self._front = nodey
+            if self._size == 0:
+                self._tail = nodey
+        elif index == self._size:
+            self._tail._next = nodey
+            self.tail = nodey
+        else:
+            item = self._front
+            for i in range(index-1):
+                item = item._next
+            nodey._next = item._next
+            item._next = nodey
+    
+    def remove(self, value):
+        if not value:
+            raise ValueError("no value")
+        
+
+        self._size += 1
