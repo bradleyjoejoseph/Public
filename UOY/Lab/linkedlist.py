@@ -12,6 +12,7 @@ class LinkedList:
         if self._front is None:
             return 'LinkedList([])'
         else:
+            print(self._front)
             return 'LinkedList([' + str(self._front) +'])'
 
 
@@ -89,6 +90,24 @@ class LinkedList:
     def remove(self, value):
         if not value:
             raise ValueError("no value")
-        
+        item = self._front
+        prev = None
+        for i in range(self._size):
+            if item._data == value:
+
+                return
+            item = item._next
 
         self._size += 1
+
+l = LinkedList()
+print(l)
+l.append(5)
+l.append(4)
+l.append(7)
+l.append(3)
+l.append(2)
+l.insert(4, 4)
+print(l)
+l.remove(4)
+print(l)
