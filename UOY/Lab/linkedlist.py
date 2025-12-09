@@ -12,7 +12,6 @@ class LinkedList:
         if self._front is None:
             return 'LinkedList([])'
         else:
-            print(self._front)
             return 'LinkedList([' + str(self._front) +'])'
 
 
@@ -38,7 +37,7 @@ class LinkedList:
             self._front = newnode
             self._tail = newnode
         else:
-            self._tail.tail = newnode
+            self._tail._next = newnode
             self._tail = newnode
 
         self._size += 1
@@ -48,10 +47,10 @@ class LinkedList:
             raise IndexError('The list is empty.')
         
         front_node = self._front
-        self._front = self._front.tail
-        front_node.tail = None
+        self._front = self._front._next
+        front_node._next = None
         self._size -= 1
-        return front_node.data
+        return front_node._data
 
     def clear(self):
         self._front = None
@@ -79,26 +78,42 @@ class LinkedList:
                 self._tail = nodey
         elif index == self._size:
             self._tail._next = nodey
-            self.tail = nodey
+            self._tail = nodey
         else:
             item = self._front
             for i in range(index-1):
                 item = item._next
             nodey._next = item._next
             item._next = nodey
+        
+        self._size += 1
     
     def remove(self, value):
         if not value:
-            raise ValueError("no value")
-        item = self._front
-        prev = None
-        for i in range(self._size):
-            if item._data == value:
+            raise ValueError("no value to remove")
+        
+        if self._front._data == value:
+            self._front = self._front._next
 
-                return
-            item = item._next
-
-        self._size += 1
+            if self._front == None:
+                self._tail = None
+            self._size -= 1
+            return
+        else:
+            item = self._front._next
+            prev = self._front
+            while item != None:
+                if item._data == value:
+                    if item == self._tail:
+                        self._tail = prev
+                
+                    prev._next = item._next
+                    self._size -= 1
+                    return
+                prev = item
+                item = item._next
+        raise ValueError("{value} is not in linked list")
+        
 
 l = LinkedList()
 print(l)
