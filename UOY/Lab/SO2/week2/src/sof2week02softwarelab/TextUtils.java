@@ -14,4 +14,10 @@ public class TextUtils {
 
         return result;
     }
+    
+    public static String[] split(String text){
+
+        
+        return new String[]{""};
+    }
 }
