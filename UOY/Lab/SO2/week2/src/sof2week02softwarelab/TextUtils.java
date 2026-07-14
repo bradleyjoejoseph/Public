@@ -87,6 +87,23 @@ problem. */
         return tokens.toArray(new String[0]);
     }
 
+    public static int[][] rasterise(int[] data, int width){
+        if (width <= 0 || data.length % width != 0){
+            return null;
+        }
+        int dIndex = 0;
+        int[][] returner = new int[data.length/width][width];
+
+        for (int i = 0; i < data.length/width; i++) {
+            for (int j = 0; j < width; j++) {
+                returner[i][j] = data[dIndex];
+                dIndex++;
+            }
+        }
+        
+
+        return returner;
+    }
 }
 
 
