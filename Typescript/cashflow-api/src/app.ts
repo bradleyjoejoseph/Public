@@ -14,6 +14,8 @@ const app = express();
 // TODO: Set up middleware and mount routes
 //
 // 1. app.use(express.json())  — parse JSON request bodies
+
+
 //
 // 2. Mount route groups:
 //    app.use('/api/auth', authRoutes)

@@ -3,7 +3,7 @@ import path from 'path';
 
 const DB_PATH = process.env.DB_PATH || './cashflow.db';
 
-const db = new Database(path.resolve(DB_PATH));
+const db: InstanceType<typeof Database> = new Database(path.resolve(DB_PATH));
 
 // Enable WAL mode for better performance
 db.pragma('journal_mode = WAL');
@@ -19,7 +19,16 @@ function initialise(): void {
   //    - password_hash: TEXT NOT NULL
   //    - name:          TEXT NOT NULL
   //    - created_at:    TEXT NOT NULL DEFAULT (datetime('now'))
-  //
+db.create table users (
+  id INT PRIMARY KEY,
+  email TEXT UNIQUE NOT NULL,
+  passowrd_hash TEXT NOT NULL,
+  name TEXT NOT NULL,
+  
+
+)
+
+
   // 2. categories
   //    - id:      INTEGER PRIMARY KEY AUTOINCREMENT
   //    - user_id: INTEGER NOT NULL REFERENCES users(id)
