@@ -19,14 +19,13 @@ function initialise(): void {
   //    - password_hash: TEXT NOT NULL
   //    - name:          TEXT NOT NULL
   //    - created_at:    TEXT NOT NULL DEFAULT (datetime('now'))
-db.create table users (
-  id INT PRIMARY KEY,
-  email TEXT UNIQUE NOT NULL,
-  passowrd_hash TEXT NOT NULL,
-  name TEXT NOT NULL,
-  
-
-)
+db.exec(`CREATE TABLE users (
+    id INT PRIMARY KEY AUTOINCREMENT,
+    email TEXT UNIQUE NOT NULL,
+    passowrd_hash TEXT NOT NULL,
+    name TEXT NOT NULL,
+    created_at TEXT NOT NULL DEFAILT (datetime('now'))
+)`)
 
 
   // 2. categories
@@ -36,7 +35,11 @@ db.create table users (
   //    - type:    TEXT NOT NULL CHECK(type IN ('income', 'expense'))
   //    - colour:  TEXT
   //    - UNIQUE(user_id, name, type)
-  //
+
+db.exec(`CREATE TABLE categories (
+    id INTEGER PRIMARY KEY AUTOINCREMENT
+    user_id INTEGER NOT NULL REFERENCES user(id)
+  )`)
   // 3. transactions
   //    - id:          INTEGER PRIMARY KEY AUTOINCREMENT
   //    - user_id:     INTEGER NOT NULL REFERENCES users(id)
@@ -47,7 +50,6 @@ db.create table users (
   //    - date:        TEXT NOT NULL
   //    - created_at:  TEXT NOT NULL DEFAULT (datetime('now'))
 
-  throw new Error('Not implemented — write your CREATE TABLE statements here');
 }
 
 initialise();
