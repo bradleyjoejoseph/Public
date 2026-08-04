@@ -7,7 +7,7 @@ const SALT_ROUNDS = 10;
  * TODO: Implement using bcrypt.hash()
  */
 export async function hashPassword(password: string): Promise<string> {
-  throw new Error('Not implemented');
+  return bcrypt.hash(password, SALT_ROUNDS);
 }
 
 /**
@@ -15,5 +15,5 @@ export async function hashPassword(password: string): Promise<string> {
  * TODO: Implement using bcrypt.compare()
  */
 export async function comparePassword(password: string, hash: string): Promise<boolean> {
-  throw new Error('Not implemented');
+  return bcrypt.compare(password, hash);
 }
