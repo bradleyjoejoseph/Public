@@ -14,10 +14,6 @@ import { AppError } from '../types';
  * Remember: Express error middleware MUST have 4 parameters (err, req, res, next)
  */
 export function errorHandler(
-  err: Error,
-  _req: Request,
-  res: Response,
-  _next: NextFunction
-): void {
-  throw new Error('Not implemented');
+  if (err instanceof(AppError))
+    
 }
