@@ -8,7 +8,7 @@ const JWT_EXPIRY = '1h';
  * TODO: Use jwt.sign() with { userId } payload, JWT_SECRET, and { expiresIn: JWT_EXPIRY }
  */
 export function generateToken(userId: number): string {
-  throw new Error('Not implemented');
+  return jwt.sign({userId}, JWT_SECRET, {expiresIn: JWT_EXPIRY})
 }
 
 /**
@@ -17,5 +17,10 @@ export function generateToken(userId: number): string {
  * Catch any errors (expired, malformed) and return null.
  */
 export function verifyToken(token: string): { userId: number } | null {
-  throw new Error('Not implemented');
+  try {
+    const decoded = jwt.verify(token, JWT_SECRET) as { userId: number };
+    return { userId: decoded.userId };
+  } catch {
+    return null;
+  }
 }
