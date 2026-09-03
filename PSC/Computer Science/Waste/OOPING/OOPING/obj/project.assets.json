@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/OOPING.csproj",
+      "projectUniqueName": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/OOPING/OOPING/OOPING.csproj",
       "projectName": "OOPING",
-      "projectPath": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/OOPING.csproj",
+      "projectPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/OOPING/OOPING/OOPING.csproj",
       "packagesPath": "/Users/bradleyjoejoseph/.nuget/packages/",
-      "outputPath": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOPING/OOPING/obj/",
+      "outputPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/OOPING/OOPING/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bradleyjoejoseph/.nuget/NuGet/NuGet.Config"

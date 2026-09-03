@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/Program4.csproj",
+      "projectUniqueName": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Programming/Iteration/Program4/Program4/Program4.csproj",
       "projectName": "Program4",
-      "projectPath": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/Program4.csproj",
+      "projectPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Programming/Iteration/Program4/Program4/Program4.csproj",
       "packagesPath": "/Users/bradleyjoejoseph/.nuget/packages/",
-      "outputPath": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Iteration/Program4/Program4/obj/",
+      "outputPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Programming/Iteration/Program4/Program4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bradleyjoejoseph/.nuget/NuGet/NuGet.Config"
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
       }
     }
   }

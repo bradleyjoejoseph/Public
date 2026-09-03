@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/FibonacciClass.csproj": {}
+    "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/FibonacciClass.csproj": {}
   },
   "projects": {
-    "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/FibonacciClass.csproj": {
+    "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/FibonacciClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/FibonacciClass.csproj",
+        "projectUniqueName": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/FibonacciClass.csproj",
         "projectName": "FibonacciClass",
-        "projectPath": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/FibonacciClass.csproj",
+        "projectPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/FibonacciClass.csproj",
         "packagesPath": "/Users/bradleyjoejoseph/.nuget/packages/",
-        "outputPath": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/obj/",
+        "outputPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/FibonacciExample/FibonacciClass/FibonacciClass/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bradleyjoejoseph/.nuget/NuGet/NuGet.Config"

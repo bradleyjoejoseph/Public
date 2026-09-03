@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/Library/Library/Library.csproj",
+      "projectUniqueName": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/Library/Library/Library.csproj",
       "projectName": "Library",
-      "projectPath": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/Library/Library/Library.csproj",
+      "projectPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/Library/Library/Library.csproj",
       "packagesPath": "/Users/bradleyjoejoseph/.nuget/packages/",
-      "outputPath": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/Library/Library/obj/",
+      "outputPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/Library/Library/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bradleyjoejoseph/.nuget/NuGet/NuGet.Config"

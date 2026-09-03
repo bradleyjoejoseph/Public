@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/OOP Design Principles.csproj",
+      "projectUniqueName": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/OOP Design Principles/OOP Design Principles/OOP Design Principles.csproj",
       "projectName": "OOP Design Principles",
-      "projectPath": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/OOP Design Principles.csproj",
+      "projectPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/OOP Design Principles/OOP Design Principles/OOP Design Principles.csproj",
       "packagesPath": "/Users/bradleyjoejoseph/.nuget/packages/",
-      "outputPath": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/OOP Design Principles/OOP Design Principles/obj/",
+      "outputPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/OOP Design Principles/OOP Design Principles/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bradleyjoejoseph/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/HexBaron.csproj",
+      "projectUniqueName": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/HexBaron/HexBaron/HexBaron.csproj",
       "projectName": "HexBaron",
-      "projectPath": "/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/HexBaron.csproj",
+      "projectPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/HexBaron/HexBaron/HexBaron.csproj",
       "packagesPath": "/Users/bradleyjoejoseph/.nuget/packages/",
-      "outputPath": "/Users/bradleyjoejoseph/Documents/School/Computer Science/HexBaron/HexBaron/obj/",
+      "outputPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/HexBaron/HexBaron/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bradleyjoejoseph/.nuget/NuGet/NuGet.Config"

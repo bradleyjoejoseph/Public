@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/BirdAbstract.csproj",
+      "projectUniqueName": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/BirdAbstract.csproj",
       "projectName": "BirdAbstract",
-      "projectPath": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/BirdAbstract.csproj",
+      "projectPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/BirdAbstract.csproj",
       "packagesPath": "/Users/bradleyjoejoseph/.nuget/packages/",
-      "outputPath": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/obj/",
+      "outputPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/AbstractClass/BirdAbstract/BirdAbstract/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bradleyjoejoseph/.nuget/NuGet/NuGet.Config"

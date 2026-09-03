@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/Program6.csproj": {}
+    "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Programming/Procedures/Program6/Program6/Program6.csproj": {}
   },
   "projects": {
-    "/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/Program6.csproj": {
+    "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Programming/Procedures/Program6/Program6/Program6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/Program6.csproj",
+        "projectUniqueName": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Programming/Procedures/Program6/Program6/Program6.csproj",
         "projectName": "Program6",
-        "projectPath": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/Program6.csproj",
+        "projectPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Programming/Procedures/Program6/Program6/Program6.csproj",
         "packagesPath": "/Users/bradleyjoejoseph/.nuget/packages/",
-        "outputPath": "/Users/bradleyjoejoseph/Documents/School/Computer Science/Programming/Procedures/Program6/Program6/obj/",
+        "outputPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Programming/Procedures/Program6/Program6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bradleyjoejoseph/.nuget/NuGet/NuGet.Config"
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
         }
       }
     }

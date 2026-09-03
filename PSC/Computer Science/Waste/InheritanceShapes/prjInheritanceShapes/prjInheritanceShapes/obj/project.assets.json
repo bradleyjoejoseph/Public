@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/prjInheritanceShapes.csproj",
+      "projectUniqueName": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/prjInheritanceShapes.csproj",
       "projectName": "prjInheritanceShapes",
-      "projectPath": "/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/prjInheritanceShapes.csproj",
+      "projectPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/prjInheritanceShapes.csproj",
       "packagesPath": "/Users/bradleyjoejoseph/.nuget/packages/",
-      "outputPath": "/Users/bradleyjoejoseph/Documents/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/obj/",
+      "outputPath": "/Users/bradleyjoejoseph/Documents/GitHub/Public/PSC/Computer Science/Waste/InheritanceShapes/prjInheritanceShapes/prjInheritanceShapes/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bradleyjoejoseph/.nuget/NuGet/NuGet.Config"
